@@ -1,0 +1,26 @@
+{
+  "name": "tsu-daily-motivation-cli",
+  "version": "1.0.0",
+  "description": "Displays a random motivational quote every time it's run.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tsugumaomarb/tsu-daily-motivation-cli"
+    },
+  "homepage": "https://twitter.com/LorindaSlaboda",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chalk": "^4.1.0",
+    "tsu-daily-motivation-cli": "^1.0.0"
+  },
+  "author": "Tsu",
+  "license": "ISC"
+}
+
+
+
+
+
